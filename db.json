@@ -9,5 +9,10 @@
     {
       "Question2": "How to get average of 10 numbers"
     }
+  ],
+  "Aptitude": [
+    {
+      "Question3": "How to get smallest of numbers"
+    }
   ]
 }
