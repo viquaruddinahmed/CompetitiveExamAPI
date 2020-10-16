@@ -7,16 +7,86 @@
     {
       "Question1": "How to get sum of 10 numbers",
       "Answer1": "ADD by 2"
-    }
+    },
+    {
+      "Question2": "How to get average of 10 numbers",
+      "Answer": "Other"
+    },
+    {
+      "Question3": "How to get average of 10 numbers",
+      "Answer": "Other"
+    },
+    {
+      "Question4": "How to get average of 10 numbers",
+      "Answer": "Other"
+    },
   ],
-  "Ielts": [
+  "IELTS": [
+    {
+      "Question1": "How to get average of 10 numbers"
+    },
     {
       "Question2": "How to get average of 10 numbers"
+    },
+    {
+      "Question3": "How to get average of 10 numbers"
+    },
+    {
+      "Question4": "How to get average of 10 numbers"
+    },
+    {
+      "Question5": "How to get average of 10 numbers"
     }
   ],
   "Aptitude": [
     {
+      "Question1": "How to get smallest of numbers"
+    },
+    {
+      "Question2": "How to get smallest of numbers"
+    },
+    {
       "Question3": "How to get smallest of numbers"
+    },
+    {
+      "Question4": "How to get smallest of numbers"
+    },
+    {
+      "Question5": "How to get smallest of numbers"
+    }
+  ],
+  "CAT": [
+    {
+      "Question1": "How to get smallest of numbers"
+    },
+    {
+      "Question2": "How to get smallest of numbers"
+    },
+    {
+      "Question3": "How to get smallest of numbers"
+    },
+    {
+      "Question4": "How to get smallest of numbers"
+    },
+    {
+      "Question5": "How to get smallest of numbers"
+    }
+  ],
+  "Networking": [
+    {
+      "Question1": "How to get smallest of numbers"
+    },
+    {
+      "Question2": "How to get smallest of numbers"
+    },
+    {
+      "Question3": "How to get smallest of numbers"
+    },
+    {
+      "Question4": "How to get smallest of numbers"
+    },
+    {
+      "Question5": "How to get smallest of numbers"
     }
   ]
 }
