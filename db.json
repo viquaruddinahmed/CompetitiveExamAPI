@@ -2,25 +2,6 @@
   "GRE": [
     {
       "Question": "How to get average of 10 numbers"
-    },
-    {
-      "Question": "Calculate distance between two moving objects",
-      "option1": "(a+b)/2",
-      "option2": "(a-b)/2",
-      "option3": "(a*b)/2",
-      "option4": "(a/b)/2"
-    },
-    {
-      "Question": "How to get average of 10 numbers",
-      "title": "hello"
-    },
-    {
-      "Question": "How to get average of 10 numbers",
-      "title": "hello"
-    },
-    {
-      "Question": "How to get average of 10 numbers",
-      "title": "hello"
     }
   ]
 }
